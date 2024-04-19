@@ -5,7 +5,7 @@ Em /src existem alguns exercicios de React com a explicação no topo do arquivo
 Como Instalar?
 
 ```bash
-npm run i
+npm run install
 ```
 
 Como Executar?
