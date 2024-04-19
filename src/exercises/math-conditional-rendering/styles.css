@@ -1,0 +1,21 @@
+.inputs {
+  display: flex;
+  gap: 10px;
+
+  input {
+    width: 90px;
+  }
+
+  select,
+  input {
+    padding: 10px;
+    font-size: 20px;
+  }
+}
+
+.result {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+}
+

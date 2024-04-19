@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "ZTE nubia Z17 miniS",
+    "price": 48
+  },
+  {
+    "id": 2,
+    "name": "Panasonic Eluga Power",
+    "price": 99
+  },
+  {
+    "id": 3,
+    "name": "LG Jil Sander Mobile",
+    "price": 43
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy J2 Pro (2016)",
+    "price": 31
+  },
+  {
+    "id": 5,
+    "name": "alcatel OT 531",
+    "price": 4
+  },
+  {
+    "id": 6,
+    "name": "Micromax Q6",
+    "price": 13
+  },
+  {
+    "id": 7,
+    "name": "Huawei Mate 20 X (5G)",
+    "price": 9
+  },
+  {
+    "id": 8,
+    "name": "Huawei Enjoy 20 SE",
+    "price": 40
+  },
+  {
+    "id": 9,
+    "name": "LG GM650s",
+    "price": 35
+  }
+]

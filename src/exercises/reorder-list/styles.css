@@ -1,0 +1,25 @@
+.reorder-list {
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    li {
+      display: flex;
+      gap: 10px;
+
+      .name {
+        width: 200px;
+      }
+
+      .year {
+        margin-right: 40px;
+      }
+
+      .buttons {
+        display: flex;
+        gap: 30px;
+      }
+    }
+  }
+}
+
